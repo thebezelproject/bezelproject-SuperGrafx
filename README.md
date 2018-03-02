@@ -7,8 +7,5 @@ This is a ZIP package compiled by The Bezel Project for use with their automatic
 
 The bezel packs are used in a RetroPie build for providing game bezels.
 
----------------
-Contact information:
 
-Look for the Facebook group called:  Bezel Bin
 
